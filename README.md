@@ -66,7 +66,7 @@ ___
 ___
 
 
-### 3) una ves ingresados los datos son procesados en  `procesarFormulario` de Alumnocontroller.java ` ingresados en Objeto Alumno el cual nos devuelve 
+### 4) una ves ingresados los datos son procesados en  `procesarFormulario` de Alumnocontroller.java ` ingresados en Objeto Alumno el cual nos devuelve 
 ### ` confirmacionRegistroAlumno.jsp`  si las validaciones atraves de Hibernate validetion se cumplen.
 
 ![imagencarpeta](img/validacion4.2.JPG)
@@ -84,7 +84,4 @@ ___
 
 ___
 
-
-###  8) sigue la conversa 
-
-![imagencarpeta](aplicacionchat/img/8repondecliente2.PNG)    
+   
