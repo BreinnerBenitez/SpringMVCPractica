@@ -23,8 +23,14 @@ ___
 
 
 ___
-### 2) cuando el servidor este ejecutando puedes utlizar   ` ClienteChat.exe ` en computadores de la red, primer mensaje:
-![imagencarpeta](aplicacionchat/img/2nombre.PNG)
+### 2)   cuando se ejecuta  el pryecto  ` MVCSpring ` inicia con el archivo jsp paginaEjemplo configurado con el Controlador
+
+![imagencarpeta](img/imguso/imgen1.JPG)
+
+## controlador 
+
+![imagencarpeta](img/imagen1.1.JPG)
+
 
 
 ___
