@@ -41,12 +41,14 @@ ___
 
 
 ___
-### 3) se pulsa ir al formulario alumnos y me envia a al `Alumnocontroller.java `  y me devuelve el `alumnoRegistroFormulario.jsp`
+### 3) cuando pulsa ir al formulario alumnos del puunto 2, me envia a al `Alumnocontroller.java `  y me devuelve el `alumnoRegistroFormulario.jsp`
 
 ![imagencarpeta](img/imgen3.1.JPG)
 
 
 ## codigo del jsp   alumnoRegistroFormulario.jsp
+
+
 
 
 ## formulacio en el navegador 
