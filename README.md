@@ -59,60 +59,26 @@ ___
 
 
 
-## formulacio en el navegador 
+## formulario en el navegador (ver imgen de abajo) 
 
 ![imagencarpeta](img/imguso/imgen2.JPG)
 
-
-
-
-
-
-
-   ###  **si necesitas la ip escribe en el cmd de windows   ` ipconfig ` donde dice  Direccion IPv4  esa es la ip del servior**
-   ###  **EJEMPLO**
-
-
-       
-![imagencarpeta](aplicacionchat/img/cmdipconfig.PNG)
-
-
-
 ___
-### 4) confirmar ip 
+
+
+### 3) una ves ingresados los datos son procesados en  `procesarFormulario` de Alumnocontroller.java ` ingresados en Objeto Alumno el cual nos devuelve 
+### ` confirmacionRegistroAlumno.jsp`  si las validaciones atraves de Hibernate validetion se cumplen.
+
+![imagencarpeta](img/validacion4.2.JPG)
+
+## una ves validado  me muestra la informacion  
+
+
+![imagencarpeta](img/confirmacionregistro5.JPG)
 
 
 
-
-![imagencarpeta](aplicacionchat/img/4confirmaip.PNG) 
-
-
-
-
-___
-### 5) si te pide permisos de red aceptalos es para poder conectar al servidor
-
-
-
-![imagencarpeta](aplicacionchat/img/5permisos.PNG)
-
-
-
-___
-### 6)  escoge ipcliente para chatear 
-
-
-
-
-![imagencarpeta](aplicacionchat/img/6ipescogermes.PNG)
-
-
-
-___
-### 7)  el  ` ClienteChat.exe ` de otro pc responde 
-
-
-![imagencarpeta](aplicacionchat/img/7respondecliente.PNG)
+![imagencarpeta](img/imguso/imgen3.JPG)
 
 
 
