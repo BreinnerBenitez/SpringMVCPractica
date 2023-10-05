@@ -37,7 +37,7 @@ ___
 
 ## codigo de  ` paginaEjemplo `  con jsp y html 
 
-![imagencarpeta](img/imgen2 jsp.JPG)
+![imagencarpeta](img/imgen2jsp.JPG)
 
 
 ___
