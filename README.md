@@ -22,12 +22,14 @@ ___
 ![imagencarpeta](img/xml/web.JPG)
 
 
+
 ___
 ### 2)   cuando se ejecuta  el pryecto  ` MVCSpring ` inicia con el archivo jsp paginaEjemplo configurado con el Controlador
 
 ![imagencarpeta](img/imguso/imgen1.JPG)
 
 ## controlador 
+
 
 ![imagencarpeta](img/imagen1.1.JPG)
 
