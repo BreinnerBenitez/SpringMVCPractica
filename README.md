@@ -42,12 +42,17 @@ ___
 
 ___
 ### 3) cuando pulsa ir al formulario alumnos del puunto 2, me envia a al `Alumnocontroller.java `  y me devuelve el `alumnoRegistroFormulario.jsp`
-
+## se procesa el modelo dandole un atributo al objeto alumno para poder ser utilizado en vista y procesar los datos registrados.
 ![imagencarpeta](img/imgen3.1.JPG)
 
 
-## codigo del jsp   alumnoRegistroFormulario.jsp
+## codigo del jsp   alumnoRegistroFormulario.jsp con jsp tags. 
 
+![imagencarpeta](img/imgen3.JPG)
+
+## procesa tambien los metodos get y set del Alumnos.java (imagen de abajo)  con el atributo path.de imgen de arriba   
+
+![imagencarpeta](img/setterygetter.JPG)
 
 
 
