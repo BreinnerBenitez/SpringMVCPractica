@@ -28,16 +28,26 @@ ___
 
 ![imagencarpeta](img/imguso/imgen1.JPG)
 
+
 ## controlador 
 
 
 ![imagencarpeta](img/imagen1.1.JPG)
 
 
+## codigo de  ` paginaEjemplo `  con jsp y html 
+
+![imagencarpeta](img/imgen2 jsp.JPG)
+
 
 ___
-### 3) el egundo mensaje te pide ip del servidor esta ip es del PC donde se Ejecuta  ` servidor.java ` 
-![imagencarpeta](aplicacionchat/img/3ipservidor.PNG)
+### 3) se pulsa ir al formulario alumnos 
+
+![imagencarpeta](img/imguso/imgen2.JPG)
+
+
+## Proceso detras :
+
 
 
 
