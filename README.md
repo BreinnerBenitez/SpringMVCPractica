@@ -3,20 +3,20 @@
 ### 1) imgenes del web proyect, y configuracion xml Spring MVC para esacaneos en el paquete correspondiente y recursos estaticos de vista
 ### configuracion de archivo xml web de java ee para uso con springMVC 
 
-![imagencarpeta](img/Springmvc/imagen1.JPG)
+![imagencarpeta](img/imagen1.JPG)
 
 ___
 
 ## spring_mvc_servlet.xml
 
-![imagencarpeta](img/Springmvc/xml/spring_mvc_servlet)
+![imagencarpeta](img/xml/spring_mvc_servlet.JPG)
 ___
 
 
 ## web.xml
 
 
-![imagencarpeta](img/Springmvc/xml/web.JPG)
+![imagencarpeta](img/xml/web.JPG)
 
 
 ___
