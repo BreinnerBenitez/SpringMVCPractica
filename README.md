@@ -1,3 +1,4 @@
+
 # Spring MVC Practica 
 ### 1) imgenes del web proyect, y configuracion xml Spring MVC para esacaneos en el paquete correspondiente y recursos estaticos de vista
 ### configuracion de archivo xml web de java ee para uso con springMVC 
